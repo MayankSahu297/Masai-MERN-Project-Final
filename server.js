@@ -10,7 +10,7 @@ const connectDb = require("./config/connectDB");
 dotenv.config();
 
 //databse call
-connectDB();
+connectDb();
 
 //rest object
 const app = express();
