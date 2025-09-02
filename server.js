@@ -4,12 +4,12 @@ const morgan = require("morgan");
 const dotenv = require("dotenv");
 const colors = require("colors");
 const path = require("path");
-const connectDb = require("./config/connectDb");
+const connectDB = require("./config/connectDb");
 // config dot env file
 dotenv.config();
 
 //databse call
-connectDb();
+connectDB();
 
 //rest object
 const app = express();
