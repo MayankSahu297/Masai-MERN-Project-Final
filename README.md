@@ -59,21 +59,21 @@ Personal Budget Tracker
 
 📂 Project Structure
 
-Masai-MERN-Project-Final/
-│── backend/          # Express + MongoDB API
-│   ├── models/       # Mongoose schemas
-│   ├── routes/       # API routes
-│   ├── controllers/  # Business logic
-│   └── server.js     # App entry point
-│
-│── frontend/         # React App
-│   ├── src/
-│   │   ├── components/  # Reusable UI components
-│   │   ├── pages/       # Pages (Login, Register, Dashboard, etc.)
-│   │   ├── context/     # State management
-│   │   └── App.js
-│
-│── README.md         # Documentation
+    Masai-MERN-Project-Final/
+    │── backend/          # Express + MongoDB API
+    │   ├── models/       # Mongoose schemas
+    │   ├── routes/       # API routes
+    │   ├── controllers/  # Business logic
+    │   └── server.js     # App entry point
+    │
+    │── frontend/         # React App
+    │   ├── src/
+    │   │   ├── components/  # Reusable UI components
+    │   │   ├── pages/       # Pages (Login, Register, Dashboard, etc.)
+    │   │   ├── context/     # State management
+    │   │   └── App.js
+    │
+    │── README.md         # Documentation
 
 
 
