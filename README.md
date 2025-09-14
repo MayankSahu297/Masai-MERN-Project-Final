@@ -59,15 +59,15 @@ Personal Budget Tracker
 # Project 
 
 ## ER Diagram
-    <img width="1012" height="380" alt="er daig" src="https://github.com/user-attachments/assets/6330f243-ef79-4732-bdca-0cb93511ca15" />
+<img width="1012" height="380" alt="er daig" src="https://github.com/user-attachments/assets/6330f243-ef79-4732-bdca-0cb93511ca15" />
 
 
 ## UML Diagram
-    <img width="510" height="812" alt="uml" src="https://github.com/user-attachments/assets/64a651c4-3c85-42cc-ad3f-961a8f72a5d4" />
+<img width="510" height="812" alt="uml" src="https://github.com/user-attachments/assets/64a651c4-3c85-42cc-ad3f-961a8f72a5d4" />
 
 
 ## Sequence Diagram
-    <img width="792" height="442" alt="sequence daigram" src="https://github.com/user-attachments/assets/3d6475a0-d7b2-46ca-a635-a512ba189c74" />
+<img width="792" height="442" alt="sequence daigram" src="https://github.com/user-attachments/assets/3d6475a0-d7b2-46ca-a635-a512ba189c74" />
 
 
 📂 Project Structure
