@@ -56,6 +56,18 @@ Personal Budget Tracker
     Frontend: Netlify / Render
 
 
+# Project Diagrams
+
+## ER Diagram
+    ![ER Diagram](er daig.png)
+
+## UML Diagram
+    ![UML Diagram](uml.png)
+
+## Sequence Diagram
+    ![Sequence Diagram](sequence daigram.png)
+
+
 
 📂 Project Structure
 
