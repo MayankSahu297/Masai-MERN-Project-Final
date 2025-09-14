@@ -56,7 +56,7 @@ Personal Budget Tracker
     Frontend: Netlify / Render
 
 
-# Project 
+# Project Daigrams
 
 ## ER Diagram
 <img width="1012" height="380" alt="er daig" src="https://github.com/user-attachments/assets/6330f243-ef79-4732-bdca-0cb93511ca15" />
