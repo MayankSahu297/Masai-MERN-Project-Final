@@ -1,7 +1,7 @@
 # Masai-MERN-Project-Final  
 
 Personal Budget Tracker
-
+        
     A full-stack Personal Budget Tracker built with the MERN stack (MongoDB, Express, React, Node.js).
     This app helps users manage their finances by tracking income, expenses, categories, and budgets straightforwardly and intuitively.
 
@@ -56,7 +56,7 @@ Personal Budget Tracker
     Frontend: Netlify / Render
 
 
-# Project Daigrams
+# Project Diagrams
 
 ## ER Diagram
 <img width="1012" height="380" alt="er daig" src="https://github.com/user-attachments/assets/6330f243-ef79-4732-bdca-0cb93511ca15" />
